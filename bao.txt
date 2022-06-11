@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://bao523.github.io/mao/0608.jarclan://localhost/猫影视/0608.jar",
+"spider":"https://bao523.github.io/mao/0608.jar",
 
 "sites":[
 
