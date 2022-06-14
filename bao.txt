@@ -88,7 +88,7 @@ Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterab
 "lives": [
 //proxy加载列表
 //{"group":"redirect","channels":[
-//{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZqMzY1Lm1sLzAvdHYudHh0"]}
+//{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9iYW81MjMuZ2l0aHViLmlvL21hby96Yi50eHQ="]}
 //]}
 //
 {"group": "CCTV","channels": [{"name":"022/5/29更新接口--反馈蜗牛ci.ci/672","urls":["http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8","http://183.232.171.91/tx.hls.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.m3u8","http://dyscdnali3.douyucdn.cn/live/2901080rH4xX1NNE.flv?uuid=","http://dyscdnali1.douyucdn.cn/live/2901080rH4xX1NNE.flv?uuid=","http://tx2play1.douyucdn.cn/live/2901080rH4xX1NNE.xs?uuid="]},
