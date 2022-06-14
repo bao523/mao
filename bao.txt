@@ -88,7 +88,7 @@ Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterab
 "lives": [
 //proxy加载列表
 //{"group":"redirect","channels":[
-//{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9iYW81MjMuZ2l0aHViLmlvL21hby96Yi50eHQ="]}
+//{"name":"live","urls":["proxy://do=live&type=txt&ext=https://bao523.github.io/mao/zb.txt"]}
 //]}
 //
 {"group": "CCTV","channels":[ 
