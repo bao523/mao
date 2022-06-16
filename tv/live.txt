@@ -2556,6 +2556,8 @@ MAX极速汽车[1920*1080],http://140.207.241.3:8080/live/program/live/jsqchd/40
 海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 玉环新闻综合,http://liveyuhuan.chinamcache.com/yuhuan/zb01.m3u8?auth_key=1640954482-0-0-011af5a3c8e7eec5fadd8d29476a0702?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+兰溪监控直播1,http://l.cztvcloud.com/channels/lantian/SXlanxi2/720p.m3u8?zzhed
+兰溪监控直播2,http://l.cztvcloud.com/channels/lantian/SXlanxi3/720p.m3u8?zzhed
 德清新闻综合,http://live.yingxi.tv/channel1/sd/live.m3u8?zzhed
 德清文化生活,http://live.yingxi.tv/channel2/sd/live.m3u8?zzhed
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
