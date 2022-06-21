@@ -1124,8 +1124,7 @@ Newtv超级电视剧,http://39.134.65.162/PLTV/88888888/224/3221225637/index.m3u
 爱旅行,http://39.135.189.199:80/0000000000001001/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
 爱怀旧,http://39.135.189.194:80/0000000000001001/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
 爱怀旧,http://39.135.189.195:80/0000000000001001/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
-爱怀旧,http://39.135.189.199:80/0000000000001001/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
-,http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
+
 爱奇谈,http://39.135.189.195:80/0000000000001001/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
 爱奇谈,http://39.135.189.194:80/0000000000001001/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
 爱奇谈,http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
